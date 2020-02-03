@@ -6,4 +6,14 @@
 ###### Cabecera H6
 
 
-Soy un readme.
+Underline 1
+---------
+
+Underline 2
+========
+
+- Formato *italica* de la primera forma.
+- Formato _italica_ de la segunda forma.
+- Formato **bold** o __strong__.
+- Formato ~~tachado~~.(Alt126).
+- aquie podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~.
